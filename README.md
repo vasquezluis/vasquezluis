@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_vasquezluis" target="blank"><img src="https://img.shields.io/twitter/follow/_vasquezluis?logo=twitter&style=for-the-badge" alt="_vasquezluis" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Reactjs, Nodejs, flask**
+- 🌱 I’m currently learning **Django, flask, Reactjs, Nodejs, Express**
 
 - 📫 How to reach me **luivasquez95@gmail.com**
 

@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Luis Vásquez</h1>
 <h3 align="center">A passionate web developer from Guatemala.</h3>
 
-<img align='right' alt='coding' width='400' src='https://mundowp.net/wp-content/uploads/2022/06/programmer.gif'>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vasquezluis&label=Profile%20views&color=0e75b6&style=flat" alt="vasquezluis" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_vasquezluis" target="blank"><img src="https://img.shields.io/twitter/follow/_vasquezluis?logo=twitter&style=for-the-badge" alt="_vasquezluis" /></a> </p>
-
 - 🌱 I’m currently learning **Django, flask, Reactjs, Nodejs, Express**
 
 - 📫 How to reach me **luivasquez95@gmail.com**

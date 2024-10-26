@@ -41,11 +41,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=ffffff)
 
-<br/>
-
 ---
-
-<br/>
 
 <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -62,13 +58,7 @@
 </a>
 </div
 
-<br/>
-
----
-
 [website]: https://vasquezluis.netlify.app/
 [linkedin]: https://www.linkedin.com/in/lantvas/
-
----
 
 <!-- Credit: [Bgstatic](https://github.com/Bgstatic) -->

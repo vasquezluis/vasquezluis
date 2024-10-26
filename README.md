@@ -47,13 +47,20 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center"> Github Statistics 📈 </h2>
   
-  <div align="center"> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vasquezluis&theme=react&hide_border=false&include_all_commits=false&count_private=false&line_heigh=40)
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=vasquezluis&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vasquezluis&theme=react&hide_border=false)
-  </div
+<div align="center"> 
+<a href="">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vasquezluis&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+</a>
+<a href="">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasquezluis&theme=react&line_height=40&hide=css"/>
+</a>
+<br/>
+<a href="">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vasquezluis&theme=react&hide_border=false"/>
+</a>
+</div
 
 <br/>
 

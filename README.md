@@ -53,10 +53,3 @@ I love creating clean, responsive interfaces and writing efficient backend logic
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
-
----
-
-<h2 align="center">📊 Contribution Activity</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vasquezluis&theme=react-dark&hide_border=true" />
-</p>

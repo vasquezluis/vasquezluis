@@ -1,55 +1,34 @@
-<h1 align="center">Hi there 👋 I'm Luis Vásquez</h1>
-<h3 align="center">Fullstack Web Developer</h3>
+### **🧐 About:**
 
-<p align="center">
-  <a href="https://vasquezluis.netlify.app/" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-vasquezluis.netlify.app-0A66C2?style=flat&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lantvas/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lantvas-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+```diff
+Fullstack Web Developer
 
----
++ Living in Guatemala, Guatemala 🇬🇹
+- Studying Cybersecurity (CTF)
++ NodeJS and React developer and always studying new technologies
+# Interested in .NET, RAG systems, AI stuff and system design
+```
 
-### 🧠 About Me
+### 🛠 **My Tools:**
 
-I'm a passionate fullstack developer who enjoys building dynamic web applications and exploring new technologies. Currently focused on **React**, **Node.js**, and learning the ropes of **.NET**, **Bash**, and **DevOps** tools like **NGINX** and **GitHub Actions**.
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF&color=2F74C0)
+![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=FFDB4F&color=1F4361)
 
-I love creating clean, responsive interfaces and writing efficient backend logic. When I’m not coding, I’m probably listening to **Linkin Park**, playing **Stardew Valley**, or learning something new online.
+![ReactJS](https://img.shields.io/badge/react-C.svg?style=for-the-badge&logo=react&color=282C34)
+![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
----
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-C.svg?style=for-the-badge&logo=linux&logoColor=fff&color=735902)
+![Docker](https://img.shields.io/badge/docker-%23430098.svg?style=for-the-badge&logo=docker&logoColor=white&color=003F8C)
 
-## 🛠️ Tech Stack
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mongo](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
-### 👨‍💻 Languages
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
-![C#](https://img.shields.io/badge/-C%23-7124AD?style=flat&logo=c-sharp&logoColor=fff)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=fff)
-
-### 🧰 Frameworks & Libraries
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
-![Node.js](https://img.shields.io/badge/-Nest.js-DE4343?style=flat&logo=nestjs&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-.NET-7124AD?style=flat&logo=.net&logoColor=fff)
-
-### 💾 Databases
-
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
-
-### 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
-![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=fff)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff)
+</div>
